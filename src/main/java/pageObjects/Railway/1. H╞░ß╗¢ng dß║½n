@@ -1,0 +1,8 @@
+Hướng dẫn chung.
+
+1. Lệnh sẽ được qua từng site phù hợp với từng site mà test case cần đi qua
+
+2. Mỗi site được xây dựng 1 file code riêng, các file code này này  nhằm giúp tương tác với site cần có, chia site như
+vậy dễ quản lý
+
+3.
